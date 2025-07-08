@@ -1,4 +1,11 @@
+Hi 👋 I'm Aditya Kumar Pandit
+🎓 Pre-Final Year Student at IIT Indore
+💻 Currently learning Spring Boot, and building real-world projects using it
+📦 Exploring backend development, RESTful APIs, and full-stack web apps
+🚀 Always up for learning new technologies and contributing to open source
+📍 Actively building my portfolio on GitHub
 
+Let's connect and grow together!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityapandit0_0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-pandit-iiti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:batmanpandit2005@gmail.com) 
 
