@@ -1,4 +1,4 @@
-Hi 👋 I'm Aditya Kumar Pandit
+Hi 👋 I'm Aditya Kumar Pandit<br>
 🎓 Pre-Final Year Student at IIT Indore
 💻 Currently learning Spring Boot, and building real-world projects using it
 📦 Exploring backend development, RESTful APIs, and full-stack web apps
